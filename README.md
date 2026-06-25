@@ -4,7 +4,9 @@ A responsive Amazon homepage clone built using HTML and CSS. This project was cr
 
 ## 🚀 Live Demo
 
-https://harshit5107.github.io/amazon-clone/
+https://amazon-clone-git-main-harshit5107s-projects.vercel.app/
+
+https://amazon-clone-eta-beryl.vercel.app/
 
 ## 📸 Screenshot
 
