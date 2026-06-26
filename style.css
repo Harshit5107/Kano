@@ -588,20 +588,82 @@ body{
     
 }
 
+/*box1*/
 
 .box1{
     width: 350px;
     height: 420px;
-    background-color: rgb(118, 230, 194);
+    background-color: rgb(255, 255, 255);
     margin-left: 20.16px;
     
 }
 
+.box-1-image{
+
+    width: 310px;
+    height: 125px;
+    margin-left: 20px;
+    background-color: white;
+    margin-top: 15px;
+    background-image: url("images/box-4a.jpg");
+    background-size: cover;
+}
+
+#cooker{
+    font-size: 16px;
+    padding-left: 20px;
+    padding-top: 4px;
+
+}
 .box1 h2{
-    padding-top: 20px;
+    padding-top: 18px;
     padding-left: 20px;
 }
 
+.box-2-image{
+    width: 310px;
+    height: 125px;
+    margin-left: 20px;
+    margin-top: 10px;
+    display: flex;
+}
+
+
+.image-12{
+    width: 100px;
+    height: 102px;
+    background-image: url("images/box-4b.jpg");
+    background-size: cover;
+}
+
+.image-13{
+    width: 100px;
+    height: 102px;
+    background-image: url("images/box-4c.jpg");
+    background-size: cover;
+    margin-left: 5px;
+}
+
+.image-14{
+    width: 100px;
+    height: 102px;
+    background-image: url("images/box-4d.jpg");
+    background-size: cover;
+    margin-left: 5px;
+}
+
+
+.pots{
+    padding-top: 5px;
+    font-size: 14px;
+}
+
+#last{
+    font-size: 14px;
+    color: #2162A1;
+    padding-left: 20px;
+    padding-top: 15px;
+}
 /*box-2*/
 
 
@@ -642,6 +704,7 @@ body{
     bottom: 8px;
     left: -20.5px;
     color: #000000;
+    font-size: 12px;
 }
 
 #knites{
@@ -649,6 +712,7 @@ body{
     bottom: 8px;
     left: -10.5px;
     color: #000000;
+    font-size: 12px;
 }
 
 .image-22{
@@ -679,6 +743,7 @@ body{
     bottom: 8px;
     left: -20.5px;
     color: #000000;
+    font-size: 12px;
 }
 
 #jewelry{
@@ -686,6 +751,7 @@ body{
     bottom: 8px;
     left: -10.5px;
     color: #000000;
+    font-size: 12px;
 }
 
 .image-24{
@@ -764,19 +830,24 @@ body{
 
 #text31{
     padding-top: 5px;
+    font-size: 12px;
+    
 }
 #text32{
     padding-top: 5px;
     padding-left: 9.5px;
+    font-size: 12px;
 }
 
 #text33{
     padding-top: 5px;
+    font-size: 12px;
 }
 
 #text34{
     padding-top: 5px;
     padding-left: 9.5px;
+    font-size: 12px;
 }
 
 .image-33{
